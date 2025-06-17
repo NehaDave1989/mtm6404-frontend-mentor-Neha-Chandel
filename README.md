@@ -5,7 +5,7 @@
 **Challege attempt:** Intro section with dropdown navigation
 
 **Desktop View:**
-![My Image](images/screenshot1.png)
+![My Image](screenshot1.png)
 
 
 **Challenges face during implementation:**
